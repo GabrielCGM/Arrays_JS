@@ -1,6 +1,6 @@
 # Arrays_JS
 
-filter ->
+filter -> https://youtu.be/D0CdMZZaD-E
 
 Find && FindIndex --> 
 
