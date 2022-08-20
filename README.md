@@ -8,7 +8,7 @@ include --> https://youtu.be/np3_HKSbjDc
 
 map -->  https://youtu.be/xYmvtcuHO2w
 
-reduce -->
+reduce --> https://youtu.be/ntARPFSnuM0
 
 reverse -->
 
