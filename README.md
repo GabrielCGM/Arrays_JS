@@ -10,6 +10,6 @@ map -->  https://youtu.be/xYmvtcuHO2w
 
 reduce --> https://youtu.be/ntARPFSnuM0
 
-reverse -->
+reverse --> https://youtu.be/TlvXoqvJOEc
 
-some && every -->
+some && every --> https://youtu.be/3hNdVVrnolk
